@@ -4,4 +4,14 @@ I am a systems engineer passionate about technology and developing mobile and we
 
 - 🔭 I’m currently working on a personal project using Flutter.
 - 🌱 I’m currently learning about Laravel
-- 📫 How to reach me: rafaelordaz16@gmail.com / www.linkedin.com/in/rafael-ordaz-dev
+
+🔗 Languages ​​used
+---
+- Dart / Flutter
+- PHP / Laravel
+- Python
+
+📫 How to reach me
+---
+Email: rafaelordaz16@gmail.com
+LinkedIn: www.linkedin.com/in/rafael-ordaz-dev
